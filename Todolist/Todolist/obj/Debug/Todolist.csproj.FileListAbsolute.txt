@@ -1,0 +1,6 @@
+D:\Todolist\Todolist\bin\Debug\Todolist.exe.config
+D:\Todolist\Todolist\bin\Debug\Todolist.exe
+D:\Todolist\Todolist\bin\Debug\Todolist.pdb
+D:\Todolist\Todolist\obj\Debug\Todolist.csprojResolveAssemblyReference.cache
+D:\Todolist\Todolist\obj\Debug\Todolist.exe
+D:\Todolist\Todolist\obj\Debug\Todolist.pdb

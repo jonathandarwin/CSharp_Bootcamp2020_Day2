@@ -1,0 +1,12 @@
+D:\LatihanConnectDB\LatihanConnectDB\bin\Debug\LatihanConnectDB.exe.config
+D:\LatihanConnectDB\LatihanConnectDB\bin\Debug\LatihanConnectDB.exe
+D:\LatihanConnectDB\LatihanConnectDB\bin\Debug\LatihanConnectDB.pdb
+D:\LatihanConnectDB\LatihanConnectDB\obj\Debug\LatihanConnectDB.csprojResolveAssemblyReference.cache
+D:\LatihanConnectDB\LatihanConnectDB\obj\Debug\LatihanConnectDB.exe
+D:\LatihanConnectDB\LatihanConnectDB\obj\Debug\LatihanConnectDB.pdb
+D:\BINUS\AM\BOOTCAMP AMJS 2020\C#\Day 2\LatihanConnectDB\LatihanConnectDB\bin\Debug\LatihanConnectDB.exe.config
+D:\BINUS\AM\BOOTCAMP AMJS 2020\C#\Day 2\LatihanConnectDB\LatihanConnectDB\obj\Debug\LatihanConnectDB.exe
+D:\BINUS\AM\BOOTCAMP AMJS 2020\C#\Day 2\LatihanConnectDB\LatihanConnectDB\obj\Debug\LatihanConnectDB.pdb
+D:\BINUS\AM\BOOTCAMP AMJS 2020\C#\Day 2\LatihanConnectDB\LatihanConnectDB\bin\Debug\LatihanConnectDB.exe
+D:\BINUS\AM\BOOTCAMP AMJS 2020\C#\Day 2\LatihanConnectDB\LatihanConnectDB\bin\Debug\LatihanConnectDB.pdb
+D:\BINUS\AM\BOOTCAMP AMJS 2020\C#\Day 2\LatihanConnectDB\LatihanConnectDB\obj\Debug\LatihanConnectDB.csprojResolveAssemblyReference.cache
